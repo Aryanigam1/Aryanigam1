@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryanigam1
 - 👀 I’m interested in Data Structures and Algorithms(DSA) ,Web-Developement
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on any Project related to my Interest
 - 📫 How to reach me --> Through my Mail-Id --> aryanigam620@gmail.com
 
